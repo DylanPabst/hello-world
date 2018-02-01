@@ -1,0 +1,12 @@
+#include <iostream>
+#include <windows.h>
+using namespace std;
+
+int main()
+{
+cout<< "Hello World" << endl;
+cout<< "....." << endl;
+Sleep(2000);
+cout<< "Would you like to play a game?" << endl;
+
+}
