@@ -8,5 +8,8 @@ cout<< "Hello World" << endl;
 cout<< "....." << endl;
 Sleep(2000);
 cout<< "Would you like to play a game?" << endl;
-
+cout<< "Please select your game Professor Falkin..." <<endl;
 }
+
+git remote add hw https://github.com/DylanPabst/hello-world.git
+git push hw master
